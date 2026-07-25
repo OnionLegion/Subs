@@ -1,5 +1,5 @@
 #profile-update-interval: 1
-#profile-title: #OL
+#profile-title: OnionLegion #OL
 #support-url: https://t.me/OnionLegion
 #profile-web-page-url: https://t.me/OnionLegion
 #announce: base64: 0KLQtdC70LXQs9GA0LDQvDpAT25pb25MZWdpb24gLSDQm9GD0YfRiNCw0Y8g0LrQvtC80LDQvdC00LA=
@@ -18,3 +18,4 @@ vless://8e8be8d1-869b-4775-9d08-ac3fd9f33a9a@5.188.115.69:443/?type=ws&encryptio
 hy2://1f31377f-a6bc-461f-9745-be3ed0ff4ecd@46.254.18.107:9443/?sni=newlte.kihsuyhf8jkiugsxb.cfd#01%20%7C%20%F0%9F%8F%B3%EF%B8%8F%20%7C%20HYSTERIA2%20%7C%20%40OnionLegion
 hy2://1f31377f-a6bc-461f-9745-be3ed0ff4ecd@46.254.18.107:9443/?sni=newlte.kihsuyhf8jkiugsxb.cfd#02%20%7C%20%F0%9F%8F%B3%EF%B8%8F%20%7C%20HYSTERIA2%20%7C%20%40OnionLegion
 vless://d8b1711a-882d-11f1-9ca5-1e6febe3e1df@89.208.231.229:2053/?type=grpc&encryption=none&flow=&serviceName=grpc-direct&sni=hh.ru&fp=firefox&security=reality&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&sid=4b685844d0b4f724#%F0%9F%8F%B3%EF%B8%8F%20%7C%20%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A7%F0%9F%87%BE%20%F0%9F%87%AA%F0%9F%87%AA%20%F0%9F%87%B1%F0%9F%87%BB%20%F0%9F%87%B5%F0%9F%87%B1%20
+vless://e626e98a-130a-4df6-a5a6-4b66e01e32c5@188.72.103.3:443?encryption=none&host=stream.tickerflux.link&path=%2Fapi%2Fv1%2Fmarkets%2F5acadd3edd%2Fstream&security=tls&sni=cdn.tracker.yandex.net&type=ws#%F0%9F%8F%B3%EF%B8%8F%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B,%20100%25%20%D0%A0%D0%90%D0%91%D0%9E%D0%A7%D0%98%D0%99%20%D0%95%D0%A1%D0%9B%D0%98%20%D0%9D%D0%95%D0%A2%20%D0%A2%D0%9E%20%D0%92%D0%AB%D0%99%D0%94%D0%98%20%D0%98%D0%97%20%D0%91%D1%83%D0%BD%D0%BA%D0%B5%D1%80%D0%B0%20@yabemor
