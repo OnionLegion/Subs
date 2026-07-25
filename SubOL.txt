@@ -2,7 +2,7 @@
 #profile-title: #OL
 #support-url: https://t.me/OnionLegion
 #profile-web-page-url: https://t.me/OnionLegion
-#announce: base64: 7aC87byQT25pb25MZWdpb24gLSDQm9GD0YfRiNCw0Y8g0LrQvtC80LDQvdC00LA=
+#announce: base64: 0KLQtdC70LXQs9GA0LDQvDpAT25pb25MZWdpb24gLSDQm9GD0YfRiNCw0Y8g0LrQvtC80LDQvdC00LA=
 vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@red-fhmq5ehr3ievlnabv8l2.concept7.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&sid=4e07408562be#01%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20%40OnionLegion
 vless://1db0a61e-05f5-43ad-870c-ceff6ce06939@109.120.189.154:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=firefox&security=reality&pbk=KvQ0JuE-17nWMSvEnG9xdlqPWv3bZBn9JlDiLmyE-SE&sid=6aa44564cda562bc#01%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C
 vless://0108c657-a9bd-4c99-9179-74050cf78889@95.163.211.150:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sellflow.org&fp=edge&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#02%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20
@@ -15,4 +15,6 @@ vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:443/?type=ws&encrypti
 vless://547c0d9e-9bb5-4e83-b6e7-09953bc6004b@95.163.232.165:443/?type=ws&encryption=none&flow=&host=cloudflare.vhub.pro&path=%2Fwebsocket%3Fed%3D2560&security=tls&sni=cloudflare.vhub.pro&alpn=http%2F1.1&fp=edge#01%20%7C%20%F0%9F%8F%B3%EF%B8%8F%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%20Germany
 vless://ad72f068-e0b4-4ca3-8df9-6b1ba704ca59@5.188.115.69:443/?type=ws&encryption=none&flow=&path=%2Fws&security=tls&sni=amogus.razkur.dev&alpn=http%2F1.1&fp=chrome#02%20%7C%20%F0%9F%8F%B3%EF%B8%8F%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%20Germany%20
 vless://8e8be8d1-869b-4775-9d08-ac3fd9f33a9a@5.188.115.69:443/?type=ws&encryption=none&flow=&path=%2Fws&security=tls&sni=amogus.razkur.dev&alpn=http%2F1.1&fp=chrome#03%20%7C%20%F0%9F%8F%B3%EF%B8%8F%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%20Germany
-vless://d8b1711a-882d-11f1-9ca5-1e6febe3e1df@89.208.231.229:2053/?type=grpc&encryption=none&flow=&serviceName=grpc-direct&sni=hh.ru&fp=edge&security=reality&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&sid=4b685844d0b4f724#%F0%9F%8F%B3%EF%B8%8F%20%7C%20%F0%9F%87%A7%F0%9F%87%BE%20Belarus
+hy2://1f31377f-a6bc-461f-9745-be3ed0ff4ecd@46.254.18.107:9443/?sni=newlte.kihsuyhf8jkiugsxb.cfd#01%20%7C%20%F0%9F%8F%B3%EF%B8%8F%20%7C%20HYSTERIA2%20%7C%20%40OnionLegion
+hy2://1f31377f-a6bc-461f-9745-be3ed0ff4ecd@46.254.18.107:9443/?sni=newlte.kihsuyhf8jkiugsxb.cfd#02%20%7C%20%F0%9F%8F%B3%EF%B8%8F%20%7C%20HYSTERIA2%20%7C%20%40OnionLegion
+vless://d8b1711a-882d-11f1-9ca5-1e6febe3e1df@89.208.231.229:2053/?type=grpc&encryption=none&flow=&serviceName=grpc-direct&sni=hh.ru&fp=firefox&security=reality&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&sid=4b685844d0b4f724#%F0%9F%8F%B3%EF%B8%8F%20%7C%20%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A7%F0%9F%87%BE%20%F0%9F%87%AA%F0%9F%87%AA%20%F0%9F%87%B1%F0%9F%87%BB%20%F0%9F%87%B5%F0%9F%87%B1%20
