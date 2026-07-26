@@ -2,7 +2,7 @@
 #profile-title: OnionLegion #OL
 #support-url: https://t.me/OnionLegion
 #profile-web-page-url: https://t.me/OnionLegion
-#announce: base64: 0KLQtdC70LXQs9GA0LDQvDpAT25pb25MZWdpb24gLSDQm9GD0YfRiNCw0Y8g0LrQvtC80LDQvdC00LA=
+#announce: base64: 0KLQtdC70LXQs9GA0LDQvDogQE9uaW9uTGVnaW9uIC0g0JvRg9GH0YjQsNGPINC60L7QvNCw0L3QtNCwCu2gvO2/s++4jyAtINGB0LXRgNCy0LXRgNCwINC00LvRjyDQvtCx0YXQvtC00LAg0LHQu9C+0LrQuNGA0L7QstC60Lg=
 vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@red-fhmq5ehr3ievlnabv8l2.concept7.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&sid=4e07408562be#01%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20%40OnionLegion
 vless://1db0a61e-05f5-43ad-870c-ceff6ce06939@109.120.189.154:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=firefox&security=reality&pbk=KvQ0JuE-17nWMSvEnG9xdlqPWv3bZBn9JlDiLmyE-SE&sid=6aa44564cda562bc#01%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C
 vless://0108c657-a9bd-4c99-9179-74050cf78889@95.163.211.150:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sellflow.org&fp=edge&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#02%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20
