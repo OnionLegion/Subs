@@ -25,3 +25,13 @@ vless://5aa8cff9-d9ad-07d0-9876-db3e4ef60f49@139.100.197.28:52006/?type=raw&encr
 vless://4f7ba74a-72d1-07d0-b98c-010ed2a2c731@139.100.197.28:52006/?type=raw&encryption=none&flow=xtls-rprx-vision&security=tls&sni=search.setlisting.ru&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20%D0%91%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9%20%E2%80%94%202
 vless://694fbac8-56da-4ecd-be68-59c57b700e93@mws-fc-2.ghost-lan.com:9444/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=qq&security=reality&pbk=bqLr1d3mbuP10WAYxWj8OEdSuZlVvrywrKq2U6ACw2w&sid=12b9ecabbf3a3b88#%F0%9F%8F%B3%EF%B8%8F%20%F0%9F%8C%90%20Unknown%20%E2%80%94%201
 vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@45.151.30.127:9873/?type=grpc&encryption=none&flow=&serviceName=grpc-tunnel&sni=dl.google.com&fp=qq&security=reality&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%201
+[Interface]
+Address = 10.88.2.84/32
+MTU = 1420
+PrivateKey = WLcYb6wrgkIWZwRB6rldkf5L51dw9Yyv/BAuWGOD51Q=
+
+[Peer]
+Endpoint = wh.ettacent.dev:51111
+PublicKey = tjMSwMQMt0wGxNHzOQhYuY20//KhyQpAYPpcexim00s=
+PreSharedKey = 6NXk0FdG7K9n0sMI+v3AsoZ5pW8ipTgTHJPJ6UF1zYA=
+PersistentKeepalive = 5
